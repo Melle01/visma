@@ -21,7 +21,7 @@ include("inc/header.php")
 
  
 	<div class="content-margins">
-		<div class="flex-3 order-navbar" style="border-bottom: none; margin-bottom: 12px;">
+		<div class="flex-3 order-navbar" style="border-bottom: none; margin-bottom: 16px;">
 			<a href="" class=""> <h4>Mina bokningar</h4> </a>
 			<a href="" class=""> <h4>Taxi Nummer</h4> </a>
 			<a href="" class=""></a>
